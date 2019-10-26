@@ -5,6 +5,7 @@ export default class LocationCard extends React.Component {
     render(){
         return (
             <View>
+                {/* hi */}
                 <TouchableOpacity
                 style={styles.card}
                 >
